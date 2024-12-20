@@ -1,0 +1,2 @@
+# VoteCoin
+a trading market
